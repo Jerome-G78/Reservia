@@ -3,7 +3,7 @@ Reservia
 Reservia - un outil de planification de vacances. 
 Le site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
-i - Il s'agit d'une version MVP, dont voici les fonctionnalités :
+i - Il s'agit d'une version MVP, dont voici les futurs fonctionnalités :
 
     Les usagers pourront rechercher des hébergements dans la ville de leur choix. 
     A ce stade, le bouton de recherche ne sera pas fonctionnel.
