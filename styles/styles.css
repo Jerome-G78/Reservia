@@ -1,4 +1,42 @@
 body {
   background-color: #F2F2F2;
 }
+
+body #Top-Hebergement {
+  background-color: grey;
+}
+
+body #Top-Hebergement .item img {
+  width: 13em;
+}
+
+body #Populaires {
+  background-color: hotpink;
+}
+
+body #Populaires .item img {
+  width: 13em;
+}
+
+body #Content-mid {
+  background-color: green;
+}
+
+body #Content-mid .item img {
+  width: 13em;
+}
+
+body footer {
+  background-color: yellow;
+}
+
+body footer .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
 /*# sourceMappingURL=styles.css.map */
